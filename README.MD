@@ -2,7 +2,7 @@
 
 ## 1. Giới thiệu
 
-Dự án này sử dụng thuật toán Random Forest để phát hiện tấn công DDoS trong lưu lượng mạng, dựa trên bộ dữ liệu DrDoS_DNS. Quá trình gồm các bước: tiền xử lý dữ liệu, cân bằng dữ liệu, huấn luyện mô hình, đánh giá hiệu suất và trực quan hóa kết quả.
+Dự án này sử dụng thuật toán Random Forest để phát hiện tấn công từ chối dịch vụ phân tán (DDoS) trong lưu lượng mạng, dựa trên bộ dữ liệu CIC-DDoS2019, cụ thể là tập con DrDoS_DNS. Quá trình xây dựng mô hình gồm các bước: tiền xử lý dữ liệu, cân bằng dữ liệu, huấn luyện mô hình, đánh giá hiệu suất và trực quan hóa kết quả.
 
 ---
 
